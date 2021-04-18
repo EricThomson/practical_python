@@ -1,0 +1,9 @@
+*.docx
+*~*
+/__pycache__
+*dropbox*
+desktop.ini
+*.gz*
+*exe
+*dll
+/working
