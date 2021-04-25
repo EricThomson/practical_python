@@ -3,18 +3,18 @@
 
 Python is an amazing language: it is powerful, useful, ubiquitous, and relatively easy to learn -- even for beginners.
 
-Unfortunately, one of the toughest steps is getting your programming environment set up properly because there are so many options (unlike,  Matlab, which has a single convenient development environment, Python has at least a dozen to choose from). The initial setup is often harder than programming itself, so before we even meet for the first class it’s crucial to have things set up so everyone in the class is on the same page.
+One of the most important steps is getting your programming environment set up. This can sometimes be daunting because there are so many options. Unlike with Matlab, which has a single convenient development environment, Python has at least a dozen to choose from. Before we meet for the first class everyone should set themselves up with a programming environment. This is a serious lesson in its own right, with lots of moving parts, so I would recommend that you set aside a good chunk of time for it.
 
-For Python, we are going to be using anaconda (technically, a streamlined version of anaconda called *miniconda*), and for programming we will be using Jupyter notebooks, which have become the standard tool that Python programmers use these days for communicating code to each other.
+We are going to be using anaconda (technically, a streamlined version of anaconda called *miniconda*), and for entering code we will be using Jupyter notebooks. Jupyter notebooks have become the *de facto* standard that Python programmers use these days for communicating with one another.
 
-Before we meet, please run the steps below. They will install miniconda and Jupyter, and give them both a test run to make sure everything is working properly. You will also download and run a test notebook as well as our first class. This will let us spend our first class entirely on coding rather than “My Python is broken.”
+The steps below will install miniconda and Jupyter, and give them both a test run to make sure everything is working properly. You will also download and run a test notebook, and the notebook that contains our first class. All this preparation will let us spend our first class entirely on coding rather than “My Python is broken” (for more on the half-flipped teaching philosophy I'm following see [LINK HERE]).
 
 #### A sidebar on install hell
 <img width = "150" src="./images/this_is_fine.jpg" align="right">
 
-Note in preparing for this class you are going to be doing a lot of steps like "install this and test it; now install that other thing and test it." Unfortunately getting your environment set up and working is a necessary rite of passage with every programming language. It is also something I would not put off until the last minute: if the following steps go *very smoothly*, I would expect it to take a conscientious beginner a few hours. However, if you end up in install hell, it could take longer, so please plan accordingly. Also bear in mind that install hell is something that everyone goes through, no matter how smart or talented they are. Because of C++, and the pre-anaconda days of Python, I have probably spent at least a month of my life in install hell. Google is your friend: millions of people have installed the following software packages; if you run into a problem, someone else has also run into it, figured out what to do, and ranted about it online with a solution.
+Note for this class you are going to be doing a lot of steps like "install this and test it; now install that other thing and test *it*." This is an important rite of passage with every programming language, and if the following steps go *very smoothly*, I would expect it to take a conscientious beginner about [[FOUR]] hours. However, if you end up in install hell, it could take longer, so please plan accordingly. Also bear in mind that install hell is something that everyone goes through: it is not an indication that "Programming isn't for me". I love programming, and because of C++, and the pre-anaconda days of Python, I have probably spent at least a month of my life in install hell. Google is your friend: millions of people have installed the following software packages; if you run into a problem, someone else has also run into it, figured out what to do, and ranted about it online with a solution. I am also here to help.
 
-# Install and test Python
+# 1. Install and test Python
 ## Install miniconda (Python)
 First, download the version of miniconda appropriate for your OS:
 https://docs.conda.io/en/latest/miniconda.html
@@ -46,7 +46,7 @@ You should now have conda (and therefore Python) installed on your system! Let�
 
 There you have it, if everything worked you are ready to become a Pythonista! But you don’t want to code at the terminal it would quickly become very tedious. Let’s install Jupyter next, so you can have a more pleasant programming experience.
 
-# Install and test Jupyter
+# 2. Install and test Jupyter
 When you installed anaconda, you weren’t just installing Python. Conda is a powerful tool for managing and installing Python packages -- it is used by everyone who does data analysis in Python. We will use it for all sorts of things in the class, starting with Jupyter.
 
 ## Install Jupyter
@@ -74,7 +74,9 @@ https://realpython.com/jupyter-notebook-introduction/
 Notebook Basics is realllllly good.
 https://github.com/ipython/ipython-in-depth/blob/7e5ce96cc9251083979efdfc393425f1229a4a68/examples/Notebook/Notebook%20Basics.ipynb
 
-#  Download and run a test notebook
+Something about markdown, something about something.
+
+# 3. Download and run a test notebook
 git clone?
 E. make a folder where you want all your shit.
 F. Go in there open
@@ -84,11 +86,12 @@ Create jupyter notebook and add a couple of videos for them to watch.
 https://github.com/flatironinstitute/mfa_jupyter_for_programming
 
 
-# Now what?
-Take a break, drink some tea or sparkling something. If you have done all of the above steps, congratulations! This is a pretty major accomplishment.
 
-If you can do the above, before even meeting for the first class, then I guarantee you can use Python to run cool data analysis, visualization, and machine learning applications. Because that was a lot of work, and installation is probably the **least fun** part of learning Python.
+# 4. Now what?
+If you have made it through the three steps above, then you definitelyl deserve a pat on the back and a break. Dance around, drink some tea or sparkling water or beer or chocolate milk. Congratulations **you have finished the hardest part of the class!** Seriously.
 
-Now you are ready for our first actual class, we are all parked facing downhill and ready to learn!
+If you can do the above, before even meeting for the first class, then I guarantee you can use Python to run cool data analysis, visualization, and machine learning applications.
+
+Now you are ready for our first actual class. You have parked your car facing downhill, ready to release the parking break and move fast and break things!
 
 Open up the class 1 jupyter notebook, read it first or not, and that’s what we will be going over in our first class!
