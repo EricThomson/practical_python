@@ -56,7 +56,7 @@ Let's go back to your Anaconda prompt (Windows) or your terminal (Mac). We will 
 
 You will be prompted about whether you are sure you want to proceed: type in yes (`y`). Here we are installing two things: `Jupyter` and `git`. Git is a version control system that will let you download a clone of this course that I’ve uploaded to GitHub (GitHub is a code repository system used by most software developers, and you don't need to worry about that right now).
 
-## Test Jupyter
+## Test Jupyter: create and test drive Jupyter
 Just have them open a new notebook and run 1+1 shift-Enter and make sure it works for now and that’s it!
 
 Pick a folder in your computer where you are going to want to put a folder for the class. This is sort of important, because this will be your home base for the next four weeks: whenever you run Jupyter, it is going to be from here. Make sure it is convenient to reach using the cd command as you will be going there a lot over the next few weeks. Create a `learning_python` directory and cd into that folder from your Anaconda Prompt (Windows) or terminal (mac).
@@ -76,6 +76,7 @@ https://github.com/ipython/ipython-in-depth/blob/7e5ce96cc9251083979efdfc393425f
 
 Something about markdown, something about something.
 
+
 # 3. Download and run a test notebook
 git clone?
 E. make a folder where you want all your shit.
@@ -85,6 +86,7 @@ Create jupyter notebook and add a couple of videos for them to watch.
 
 https://github.com/flatironinstitute/mfa_jupyter_for_programming
 
+Future classses will all be jupyter notebooks.
 
 
 # 4. Now what?
