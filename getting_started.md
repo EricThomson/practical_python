@@ -9,10 +9,12 @@ We are going to be using anaconda (technically, a streamlined version of anacond
 
 The steps below will install miniconda and Jupyter, and give them both a test run to make sure everything is working properly. You will also download and run a test notebook, and the notebook that contains our first class. All this preparation will let us spend our first class entirely on coding rather than “My Python is broken” (for more on the half-flipped teaching philosophy I'm following see [LINK HERE]).
 
+Note for this initial section you are going to be doing a lot of steps like "First install this and test it. Now install that other thing and test *it*." Some of it will be a bit repetitious, and this is somewhat intentional. Programming is largely muscle memory, and getting an environment set up is an important rite of passage. Just look at it as a fun adventure into new territory. If the following steps go *very smoothly*, I would expect it to take a conscientious beginner about [[FOUR]] hours. However, if you end up in install hell, it could take longer, so please plan accordingly.
+
 #### A sidebar on install hell
 <img width = "150" src="./images/this_is_fine.jpg" align="right">
 
-Note for this class you are going to be doing a lot of steps like "install this and test it; now install that other thing and test *it*." This is an important rite of passage with every programming language, and if the following steps go *very smoothly*, I would expect it to take a conscientious beginner about [[FOUR]] hours. However, if you end up in install hell, it could take longer, so please plan accordingly. Also bear in mind that install hell is something that everyone goes through: it is not an indication that "Programming isn't for me". I love programming, and because of C++, and the pre-anaconda days of Python, I have probably spent at least a month of my life in install hell. Google is your friend: millions of people have installed the following software packages; if you run into a problem, someone else has also run into it, figured out what to do, and ranted about it online with a solution. I am also here to help.
+Also bear in mind that install hell is something that everyone goes through: it is **not** an indication that "Programming isn't for me". I love programming, and because of C++ and the pre-anaconda days of Python, I have literally spent *weeks* of my life in install hell. Google is your friend: millions of people have installed the following software packages; if you run into a problem, someone else has also run into it, figured out what to do, and ranted about it online with a solution. I am also here to help (especially if you are in Windows).
 
 # 1. Install and test Python
 ## Install miniconda (Python)
@@ -56,20 +58,52 @@ Let's go back to your Anaconda prompt (Windows) or your terminal (Mac). We will 
 
 You will be prompted about whether you are sure you want to proceed: type in yes (`y`). Here we are installing two things: `Jupyter` and `git`. Git is a version control system that will let you download a clone of this course that I’ve uploaded to GitHub (GitHub is a code repository system used by most software developers, and you don't need to worry about that right now).
 
-## Test Jupyter: create and test drive Jupyter
+## Test-drive Jupyter: create a notebook
 Just have them open a new notebook and run 1+1 shift-Enter and make sure it works for now and that’s it!
 
 Pick a folder in your computer where you are going to want to put a folder for the class. This is sort of important, because this will be your home base for the next four weeks: whenever you run Jupyter, it is going to be from here. Make sure it is convenient to reach using the cd command as you will be going there a lot over the next few weeks. Create a `learning_python` directory and cd into that folder from your Anaconda Prompt (Windows) or terminal (mac).
 
 (this directory will have practical_python repo, as well as their personal stuff, all in one place).
 
-Since Jupyter is a browser-based programming tool, make sure you have a browser open (typically it works well with Firefox by default, but you might need to play around), and enter the command jupyter notebook in your terminal.
+Since Jupyter is a browser-based programming tool, make sure you have a browser open (typically it works well with Firefox by default, but you might need to play around to find what works best in your system), and enter the command `jupyter notebook` in your terminal. This will start a Jupyter server and open up your Jupyter home page that will look like the following:
 
-SCREENSHOTS all the things.
 
-Learn something about Jupyter?
+<img src="./images/jupyter_server_home.png" align="center">    
+
+
+This home page has a few tabs, but the main thing to do now is click on the `New` dropdown menu (circled in red in the image above) and click on `Python 3` to open up your first Jupyter notebook! It will look like the following, with a notebook name (circled in cyan below: it will be called `Untitled` at first: you can click on the title field and name it something else like `test_notebook`)
+
+<img src="./images/jupyter_notebook_blank.jpg" align="center">
+
+There is also a menubar and a toolbar that gives you lots of options, and most importantly the `Cell`. The cell is where you actually do all your writing. It will be your friend for this entire class.
+
+Each cell can be run in two different modes, code mode and markdown mode. We aren't going to go into it much yet (see next section), but let's just test it quickly.  
+
+First, type `1+1` into the cell and then `shift-Enter` to run the code. You should then see the number `2` printed out, and you should be taken to a new cell.
+
+Second, in the toolbar (highlighted in green in the image above) click on the dropdown menu where it says `Code`, and select `Markdown`. Now go into the cell and enter the following lines (or whatever you want):
+
+```
+     # Hello World!
+     My first markdown
+```
+And when done, click `shift-Enter` on your keyboard to enter the information. Now, intead of sending off code to the Python interpreter to run code, you have told Jupyter that you want to write formatted text. Your notebook should look something like this:
+
+<img src="./images/test_nb_example.png" align="center">
+
+If all of that worked, congratulations, you have successfully set up your Python programing environment! You can save your work (click on the save icon in the toolbar), and close your windows/terminal.
+
+Now that we know everything is set up properly, we can actually start to do things. :)
+
+# 3. Download and run a test notebook
+[oyk ub styff frin codakids]
+
+
+Learn something about basics of Python and Jupyter?
 
 https://realpython.com/jupyter-notebook-introduction/
+
+https://jupyter-notebook.readthedocs.io/en/stable/notebook.html
 
 Notebook Basics is realllllly good.
 https://github.com/ipython/ipython-in-depth/blob/7e5ce96cc9251083979efdfc393425f1229a4a68/examples/Notebook/Notebook%20Basics.ipynb
@@ -77,7 +111,6 @@ https://github.com/ipython/ipython-in-depth/blob/7e5ce96cc9251083979efdfc393425f
 Something about markdown, something about something.
 
 
-# 3. Download and run a test notebook
 git clone?
 E. make a folder where you want all your shit.
 F. Go in there open
@@ -86,7 +119,7 @@ Create jupyter notebook and add a couple of videos for them to watch.
 
 https://github.com/flatironinstitute/mfa_jupyter_for_programming
 
-Future classses will all be jupyter notebooks.
+Future classses will all be jupyter notebooks.  Have the notebook be the one you made for corona_coders (lesson 2).
 
 
 # 4. Now what?
