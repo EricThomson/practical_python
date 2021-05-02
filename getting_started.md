@@ -1,5 +1,5 @@
 # Practial Python Week 0: Getting Started
-<img width = "300" src="./images/green_python.png" align="right">
+<img width = "350" src="./images/green_python.png" align="right">
 
 Python is an amazing language: it is powerful, useful, ubiquitous, and relatively easy to learn -- even for beginners.
 
@@ -14,7 +14,7 @@ Note for this initial section you are going to be doing a lot of steps like "Fir
 #### A sidebar on install hell
 <img width = "150" src="./images/this_is_fine.jpg" align="right">
 
-Also bear in mind that install hell is something that everyone goes through: it is **not** an indication that "Programming isn't for me". I love programming, and because of C++ and the pre-anaconda days of Python, I have literally spent *weeks* of my life in install hell. Google is your friend: millions of people have installed the following software packages; if you run into a problem, someone else has also run into it, figured out what to do, and ranted about it online with a solution. I am also here to help (especially if you are in Windows).
+Also bear in mind that install hell is something that everyone goes through: it is **not** an indication that "Programming isn't for me". I love programming, and I have literally spent *weeks* of my life in install hell. Google is your friend: millions of people have installed the following software packages; if you run into a problem, someone else has also run into it, figured out what to do, and ranted about it online with a solution. I am also here to help (especially if you are in Windows).
 
 # 1. Install and test Python
 ## Install miniconda (Python)
@@ -123,7 +123,7 @@ Future classses will all be jupyter notebooks.  Have the notebook be the one you
 
 
 # 4. Now what?
-If you have made it through the three steps above, then you definitelyl deserve a pat on the back and a break. Dance around, drink some tea or sparkling water or beer or chocolate milk. Congratulations **you have finished the hardest part of the class!** Seriously.
+If you have made it through the three steps above, then you definitely deserve a pat on the back, and a break.  Congratulations **you have finished the hardest part of the class!** Seriously.
 
 If you can do the above, before even meeting for the first class, then I guarantee you can use Python to run cool data analysis, visualization, and machine learning applications.
 
