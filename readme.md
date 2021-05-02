@@ -1,7 +1,7 @@
 # Practical Python
 A Python class where you can learn just enough of the basics to start examining data in Jupyter notebooks.
 
-<img width = "500" src="./images/green_python.png ">
+<img width = "500" src="./images/hazel.png">
 
 ## Details
 This is meant to be a semi-flipped class. In a fully flipped class, there would be no official teaching: you do reading and learning on your own, and come in and do practical work in class while the teacher basically acts as a facilitato. class and the teacher comes and basically comes to answer questions.
