@@ -13,12 +13,9 @@ We will be learning Python through the use of [Jupyter notebooks](https://www.na
 ### Week 0
 In ways, this is going to be the hardest class, because it will be what you do *before* we ever meet. Here you will be installing your Python programming environment, giving it a test run, cloning the Jupyter notebooks from github and making sure everything is running. If you can do this stuff, you will absolutely be able to do everything else in the class.
 
-I would give yourself a solid 6 hours spread out over a few days to work through the material here so you are sure to be ready for our first in-person class. The material is in:
+To be safe, I would set aside a solid 6 hours spread out a week to work through the material here so you are sure to be ready for our first in-person class:
 
-- [getting_started.md](getting_started.md)
-This explains how to install Python and Jupyter, how to test run Python and run your first Jupyter notebook. Going through the initial setup in this step will probably take a couple of hours.
-- [week0.ipynb](week0.ipynb)
-Your first Jupyter notebook, which you will be downloading from github and running locally once you have set up your local programming environment as laid out in `getting_started.md`. Going through these bits will probalby take a couple of hours.
+- [getting_started.md](getting_started.md): This explains how to install Python and Jupyter, how to test run Python and run your first Jupyter notebook. You will also clone this repository locally and download all the Jupyter notebooks we will be using for the rest of the class.
 
 ### Week 1
 
