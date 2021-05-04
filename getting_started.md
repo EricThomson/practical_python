@@ -1,20 +1,22 @@
 # Practial Python Week 0: Getting Started
-<img width = "350" src="./images/green_python.png" align="right">
+<img width = "350" src="./images/hazel.png" align="right">
 
 Python is an amazing language: it is powerful, useful, ubiquitous, and relatively easy to learn -- even for beginners.
 
-One of the most important steps is getting your programming environment set up. This can sometimes be daunting because there are so many options. Unlike with Matlab, which has a single convenient development environment, Python has at least a dozen to choose from. Before we meet for the first class everyone should set themselves up with a programming environment. This is a serious lesson in its own right, with lots of moving parts, so I would recommend that you set aside a good chunk of time for it.
+One of the most important steps is getting your programming environment set up. This can sometimes be daunting because there are so many options. Unlike  Matlab, which has a single convenient interface, Python has at least a dozen to choose from. To avoid confusion, and be sure we are all on the same page, our first lesson (before we even meet) will be to set up and test drive one such programming environment.
 
-We are going to be using anaconda (technically, a streamlined version of anaconda called *miniconda*), and for entering code we will be using Jupyter notebooks. Jupyter notebooks have become the *de facto* standard that Python programmers use these days for communicating with one another.
+We are going to be using anaconda (technically, a streamlined version of anaconda called *miniconda*), and Jupyter. Jupyter notebooks have become the *de facto* standard that Python programmers use these days for communicating with one another.
 
-The steps below will install miniconda and Jupyter, and give them both a test run to make sure everything is working properly. You will also download and run a test notebook, and the notebook that contains our first class. All this preparation will let us spend our first class entirely on coding rather than “My Python is broken” (for more on the half-flipped teaching philosophy I'm following see [LINK HERE]).
+By following the steps below, you will get miniconda and Jupyter installed on your computer, and give them both a test run to make sure everything is working properly. You will also download and run your first notebook, which will include an introduction to Jupyter and Python. All this preparation will let us spend our first class entirely on coding rather than “My Python is broken”.
 
-Note for this initial section you are going to be doing a lot of steps like "First install this and test it. Now install that other thing and test *it*." Some of it will be a bit repetitious, and this is somewhat intentional. Programming is largely muscle memory, and getting an environment set up is an important rite of passage. Just look at it as a fun adventure into new territory. If the following steps go *very smoothly*, I would expect it to take a conscientious beginner about [[FOUR]] hours. However, if you end up in install hell, it could take longer, so please plan accordingly.
+Note for this pre-class you are going to be doing a lot of steps like "First install this and test it. Now install that other thing and test *it*." Some of it will be a bit repetitious, and this is intentional. We are going to be repeating a lot of things in this class. Programming is largely muscle memory, so repetition is key.
+
+Please be sure to set aside a good chunk of time for this initial bit. If the following steps go *very smoothly*, I would expect it to take a conscientious beginner about [[FOUR]] hours. However, if you end up in install hell, it could take longer, so please plan accordingly.
 
 #### A sidebar on install hell
 <img width = "150" src="./images/this_is_fine.jpg" align="right">
 
-Also bear in mind that install hell is something that everyone goes through: it is **not** an indication that "Programming isn't for me". I love programming, and I have literally spent *weeks* of my life in install hell. Google is your friend: millions of people have installed the following software packages; if you run into a problem, someone else has also run into it, figured out what to do, and ranted about it online with a solution. I am also here to help (especially if you are in Windows).
+Install hell is something that everyone goes through: it is **not** an indication that "Programming isn't for me". I love programming, and I have literally spent *weeks of my life* in install hell. Google is your friend: millions of people have installed the following software packages; if you run into a problem, someone else has also run into it and ranted about it online with a solution. I am also here to help (especially if you are in Windows).
 
 # 1. Install and test Python
 ## Install miniconda (Python)
