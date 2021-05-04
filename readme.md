@@ -15,9 +15,9 @@ In ways, this is going to be the hardest class, because it will be what you do *
 
 I would give yourself a solid 6 hours spread out over a few days to work through the material here so you are sure to be ready for our first in-person class. The material is in:
 
-- [getting_started.md](.getting_started.md)
+- [getting_started.md](getting_started.md)
 This explains how to install Python and Jupyter, how to test run Python and run your first Jupyter notebook. Going through the initial setup in this step will probably take a couple of hours.
-- [week0.ipynb](.week0.ipynb)
+- [week0.ipynb](week0.ipynb)
 Your first Jupyter notebook, which you will be downloading from github and running locally once you have set up your local programming environment as laid out in `getting_started.md`. Going through these bits will probalby take a couple of hours.
 
 ### Week 1
