@@ -4,12 +4,21 @@ A Python class where you can learn just enough of the basics to start examining 
 <img width = "500" src="./images/hazel.png">
 
 ## Details
-This is meant to be a semi-flipped class. In a fully flipped class, there would be no official teaching: you do reading and learning on your own, and come in and do practical work in class while the teacher basically acts as a facilitato. class and the teacher comes and basically comes to answer questions.
+This is a class for complete beginners. It is a *semi-flipped* class in that we will do a lot of practical engagement with coding both inside and outside the (online) classroom, but with a significant preparation and preview before each class to maximize the impact. Rather than a [flipped classroom](https://en.wikipedia.org/wiki/Flipped_classroom), where students do all the instructional material at home and all the practical material in class where the teacher can help, I liken this to "parking downhill". You will get a bit of practical preview and instruction before each class so that we can release the breaks and learn at an accelerated rate, with a mixture of practical examples and instruction each week.
 
-However, this is a class for people completely new to programming, I think such a trial by fire is probably not quite as helpful as having a more mixed approach with some conversation and instruction. However, each week I will be giving a Jupyter notebook to practice with to learn things before coming to class. I liken this to parking your car facing downhill so you can just release the breaks and start going fast.
+You should expect quite a bit of *repetitiove practical engagement*. Programming is 80% muscle memory, so the way you learn to do it isn't to read and memorize things (e.g., Kreb's Cycle), but the way you learn to ride a bike or flip a pancake: by practicing a lot (i.e., 25 minutes every day of the week is better than 3 hours once a week)
+
+We will be learning Python through the use of [Jupyter notebooks](https://www.nature.com/articles/d41586-018-07196-1), which have become the tool of choice among scientists for expressing their ideas in Python. You will start to see why in the Week 0 lesson.
 
 ### Week 0
-Please do this before our first meeting: install things and make sure it works so we don't spend the first week in "My Python is broken wasteland"
+In ways, this is going to be the hardest class, because it will be what you do *before* we ever meet. Here you will be installing your Python programming environment, giving it a test run, cloning the Jupyter notebooks from github and making sure everything is running. If you can do this stuff, you will absolutely be able to do everything else in the class.
+
+I would give yourself a solid 6 hours spread out over a few days to work through the material here so you are sure to be ready for our first in-person class. The material is in:
+
+- [getting_started.md](.getting_started.md)
+This explains how to install Python and Jupyter, how to test run Python and run your first Jupyter notebook. Going through the initial setup in this step will probably take a couple of hours.
+- [week0.ipynb](.week0.ipynb)
+Your first Jupyter notebook, which you will be downloading from github and running locally once you have set up your local programming environment as laid out in `getting_started.md`. Going through these bits will probalby take a couple of hours.
 
 ### Week 1
 
