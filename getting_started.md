@@ -98,30 +98,7 @@ If all of that worked, congratulations, you have successfully set up your Python
 Now that we know everything is set up properly, we can actually start to do things. :)
 
 # 3. Download and run a test notebook
-[oyk ub styff frin codakids]
-
-
-Learn something about basics of Python and Jupyter?
-
-https://realpython.com/jupyter-notebook-introduction/
-
-https://jupyter-notebook.readthedocs.io/en/stable/notebook.html
-
-Notebook Basics is realllllly good.
-https://github.com/ipython/ipython-in-depth/blob/7e5ce96cc9251083979efdfc393425f1229a4a68/examples/Notebook/Notebook%20Basics.ipynb
-
-Something about markdown, something about something.
-
-
-git clone?
-E. make a folder where you want all your shit.
-F. Go in there open
-
-Create jupyter notebook and add a couple of videos for them to watch.
-
-https://github.com/flatironinstitute/mfa_jupyter_for_programming
-
-Future classses will all be jupyter notebooks.  Have the notebook be the one you made for corona_coders (lesson 2).
+Go into folder and clone practical python. Go into practical python run jupyter notebook and open notebook 0 and work through it. 
 
 
 # 4. Now what?
