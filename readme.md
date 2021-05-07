@@ -1,15 +1,15 @@
 # Practical Python
-A Python class where you can learn just enough of the basics to start examining data in Jupyter notebooks.
+A Python class where you can learn just enough of the basics to start examining data in Jupyter notebooks. [Under construction!]
 
 <img width = "500" src="./images/hazel.png">
 
 ## Details
-This is a class for complete beginners. Each week will involve a bit of practical preview and instruction before each class to prime us to jump into the material each week.
+This is a Python class for complete beginners. Each week will involve a bit of practical preview and instruction before each class to prepare us for the material each week.
 
 Programming is 80% muscle memory, so the way you learn to do it isn't to read and memorize things (e.g., Kreb's Cycle), but through practice and repetition (e.g., riding a bike).  We will be learning Python through the use of [Jupyter notebooks](https://www.nature.com/articles/d41586-018-07196-1), which have become the tool of choice among scientists for expressing their ideas in Python.
 
 ### Week 0
-This week you will set up programming environment, give it a test run, and set up the material for the class. If you can do this stuff before we meet, you will absolutely be able to do everything else in the class. For this material, just go to [getting_started.md](getting_started.md) and follow the instructions there. Good luck!
+This week you will set up programming environment, give it a test run, and set up the material for the class. If you can do this before we meet, you will absolutely be able to do everything else in the class. For this material, just go to [getting_started.md](getting_started.md) and follow the instructions there. Good luck!
 
 ### Week 1
 
