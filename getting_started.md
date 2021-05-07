@@ -65,8 +65,6 @@ Just have them open a new notebook and run 1+1 shift-Enter and make sure it work
 
 Pick a folder in your computer where you are going to want to put a folder for the class. This is sort of important, because this will be your home base for the next four weeks: whenever you run Jupyter, it is going to be from here. Make sure it is convenient to reach using the cd command as you will be going there a lot over the next few weeks. Create a `learning_python` directory and cd into that folder from your Anaconda Prompt (Windows) or terminal (mac).
 
-(this directory will have practical_python repo, as well as their personal stuff, all in one place).
-
 Since Jupyter is a browser-based programming tool, make sure you have a browser open (typically it works well with Firefox by default, but you might need to play around to find what works best in your system), and enter the command `jupyter notebook` in your terminal. This will start a Jupyter server and open up your Jupyter home page that will look like the following:
 
 
@@ -95,17 +93,18 @@ And when done, click `shift-Enter` on your keyboard to enter the information. No
 
 If all of that worked, congratulations, you have successfully set up your Python programing environment! You can save your work (click on the save icon in the toolbar), and close your windows/terminal.
 
-Now that we know everything is set up properly, we can actually start to do things. :)
+Now that we know everything is set up properly, we can actually start the class properly.
 
 # 3. Download and run a test notebook
-Go into folder and clone practical python. Go into practical python run jupyter notebook and open notebook 0 and work through it. 
+We are now going to download the content of the class from github. In your conda terminal, cd into the `learning_python/` folder you made in step 2.  Now we are going to clone/download the practical python course from github with the following command:
 
+    git clone https://github.com/EricThomson/practical_python
+
+This will create a folder `practical_python/` inside your `learning_python/` directory. CD into that folder and enter `jupyter notebook`, and from the Jupyter home page click on `week0.ipynb`. This notebook contains the main lesson for your first week: it includes some basic background about programming, Python, Jupyter notebooks, gives you a chance to practice entering stuff in Jupyter, and importantly, gives a little preview of Week 1.
+
+Take your time and work through that.
 
 # 4. Now what?
-If you have made it through the three steps above, then you definitely deserve a pat on the back, and a break.  Congratulations **you have finished the hardest part of the class!** Seriously.
+If you have made it through the three steps above, and made it through `week0.ipynb` then pat yourself on the back and take a break.  If you can do all that before even meeting for the first class, then I guarantee you can use Python to run cool data analysis, visualization, and machine learning applications.
 
-If you can do the above, before even meeting for the first class, then I guarantee you can use Python to run cool data analysis, visualization, and machine learning applications.
-
-Now you are ready for our first actual class. You have parked your car facing downhill, ready to release the parking break and move fast and break things!
-
-Open up the class 1 jupyter notebook, read it first or not, and that’s what we will be going over in our first class!
+Most importantly, you are ready for our first actual class. You have parked your car facing downhill, ready to release the parking break and move fast and break things!
