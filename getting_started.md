@@ -3,20 +3,11 @@
 
 Welcome to **Practical Python**. Python is an amazing language: it is powerful, useful, ubiquitous, and relatively easy to learn -- even for beginners. This week we will focus mainly on setting up your programming environment, and a little preview of the Python you will learn in Week 1.
 
-Getting a programming environment set up that will just work without much thought is essential. With Python, this step can sometimes be daunting because there are so many options -- unlike  Matlab, which has a single convenient interface, Python has at least a dozen to choose from. Hence, to avoid confusion and be sure we are all on the same page, our first lesson is going to be on how to set up and test drive one popular programming environment for scientific computing.
+Getting a programming environment set up that will work without any hiccups is essential. With Python, this step can sometimes be daunting because there are so many options -- unlike  Matlab, which has a single convenient interface, Python has at least a dozen to choose from. Hence, to avoid confusion and be sure we are all on the same page, our first lesson is going to be on how to set up and test drive one popular programming environment for scientific computing.
 
-We are going to be using anaconda (technically, a streamlined version of anaconda called *miniconda*), and Jupyter. Jupyter notebooks have become the *de facto* standard that scientists use these days for communicating with one another.
+We are going to be using anaconda (technically, a streamlined version of anaconda called *miniconda*), and Jupyter. Jupyter notebooks have become the *de facto* standard that scientists that program in Python use for communicating with one another.
 
-By following the steps below, you will get miniconda and Jupyter installed on your computer, and give them both a test run to make sure everything is working properly. You will also download and run your first notebook, which will include an introduction to Jupyter and a little bit of Python. All this preparation will let us spend our first class entirely on coding rather than “My Python is broken”.
-
-Note for this pre-class you are going to be doing a lot of steps like "First install this and test it. Now install that other thing and test *it*." Some of it will be a bit repetitious, and this is intentional. We are going to be repeating a lot of things in this class. Programming is largely muscle memory, so repetition is key.
-
-Please be sure to set aside a good chunk of time for this initial step, as it isn't just about installation, but about using and practicing how to start and use Jupyter notebooks, learning about Python, and other things. Also, there is a chance you will end up in install hell, from which could take a couple of days to escape.
-
-#### A sidebar on install hell
-<img width = "150" src="./images/this_is_fine.jpg" align="right">
-
-Install hell is something that everyone goes through: it is **not** an indication that "Programming isn't for me". I love programming, and I have literally spent *weeks of my life* in install hell. Google is your friend: millions of people have installed the following software packages; if you run into a problem, someone else has also run into it and ranted about it online with a solution (e.g., on Stack Overflow). I am also here to help (especially if you are in Windows).
+Please be sure to set aside a good chunk of time for this initial step, as it isn't just about installation, but about practicing how to start and use Jupyter notebooks, learning about Python, among other things. Also, there is a slight chance you will end up in install hell, and it will be crucial to escape before our first real class.
 
 # 1. Install and test Python
 ## Install miniconda (Python)
@@ -100,7 +91,7 @@ The notebook name (circled in cyan) will be  `Untitled` at first: you can click 
 
 4. Double-click into the empty cell and type in `1+1` and then `shift-Enter` to run the code. You should then see the number `2` printed out, and you should be taken to a new cell.
 
-5. Once emphasis is on the the new cell, click on the dropdown menu where it says `Code`, and select `Markdown`. Now go back into the blank cell and enter the following lines:
+5. Once emphasis is on the the new cell, in the Toolbar dropdown where it says `Code` click and select `Markdown`. Now go back into the blank cell and enter the following lines:
 
 ```
      # Hello World!
@@ -131,6 +122,4 @@ In the server home page you will see lots of notebooks you downloaded for the cl
 Give yourself some time to read/work on the week 0 notebook.
 
 # 4. Celebrate!
-If you have made it through the steps above, then pat yourself on the back and take a break.  If you can do all that before even meeting for the first class, then I guarantee you can use Python to run cool data analysis, visualization, and machine learning applications.
-
-Most importantly, you are ready for our first actual class. You have parked your car facing downhill, ready to release the parking break and move fast and break things!
+If you have made it through the steps above, then pat yourself on the back and take a break.  You are well on your way to using Python for cool data analysis, visualization, and machine learning applications. Most importantly, you are ready for our first actual class. You have parked your car facing downhill, ready to release the parking break and move fast and break things!
