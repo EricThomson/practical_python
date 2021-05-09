@@ -4,12 +4,10 @@ A Python class where you can learn just enough of the basics to start examining 
 <img width = "500" src="./images/hazel.png">
 
 ## Details
-This is a Python class for complete beginners. Each week will involve a bit of practical preview and instruction before each class to prepare us for the material each week.
-
-Programming is 80% muscle memory, so the way you learn to do it isn't to read and memorize things (e.g., Kreb's Cycle), but through practice and repetition (e.g., riding a bike).  We will be learning Python through the use of [Jupyter notebooks](https://www.nature.com/articles/d41586-018-07196-1), which have become the tool of choice among scientists for expressing their ideas in Python.
+This is a Python class for beginners. Programming is largely muscle memory, so a good way to learn is through practice (e.g., like getting better at free throws in basketball). While we will do a lot of instruction, we will also try to focus on learning by *doing*.  
 
 ### Week 0
-This week you will set up programming environment, give it a test run, and set up the material for the class. If you can do this before we meet, you will absolutely be able to do everything else in the class. For this material, just go to [getting_started.md](getting_started.md) and follow the instructions there. Good luck!
+This week you will set up programming environment, give it a test run, and set up the material for the class. We will be using [Jupyter notebooks](https://www.nature.com/articles/d41586-018-07196-1), which have become the tool of choice among scientists for expressing their ideas in Python.  For this material, just go to [getting_started.md](getting_started.md) and follow the instructions there.
 
 ### Week 1
 
