@@ -26,6 +26,7 @@ Data science stack, part 2. Using Python IRL.
 
 ### To do
 - when you finish class1, go in and add preview at end of class 0, or just have them read over class 1? Or make separate class 1 preview notebook?
+- in general, getting_started needs a bit of work. Also, instructions on how to change default browswer in my windows fresh install it defaulted to freaking MS Edge :( 
 - do this readme pretty much last just make the classes.
 
 ## Acknowledgments
