@@ -25,8 +25,11 @@ Objects, Imports and virtual environments, and intro to the data science stack p
 Data science stack, part 2. Using Python IRL.
 
 ### To do
+- Add esc-a/esc-b to add cell above/below in week0.ipynb
+- Add section at end of each class for them to write questions to email me.
+- Add section for class itself and put link to questions there! (jupyter notebook questions, chapter 1 questions, chapter 2 questions)
 - when you finish class1, go in and add preview at end of class 0, or just have them read over class 1? Or make separate class 1 preview notebook?
-- in general, getting_started needs a bit of work. Also, instructions on how to change default browswer in my windows fresh install it defaulted to freaking MS Edge :( 
+- in general, getting_started needs a bit of work. Also, instructions on how to change default browswer in my windows fresh install it defaulted to freaking MS Edge :(
 - do this readme pretty much last just make the classes.
 
 ## Acknowledgments
