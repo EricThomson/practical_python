@@ -7,7 +7,7 @@ Our mascot, Hazel the Green Tree Python.
 ## Course
 This is a Python class for complete beginners. Programming is largely muscle memory, so the best way to learn is through deliberate practice. While we will do four weeks of instruction, we will also try to focus on learning by *doing*.
 
-This will be a flipped class, where you learn a lot before each class (using the excellent book [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/2e/)) (ATBS)) and then we meet in each class to discuss and work on practical problems. The goal is to do a crash course in the basics of Python the first two weeks, and then some basics of the data science stack the second two weeks. This will be fast-paced, and very selective, but I hope fun!
+This will be a flipped class, where you learn a lot before each class (using the excellent book [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/2e/)) (ATBS)) and then we meet in each class to discuss and work on practical problems. The goal is to do a crash course in the basics of Python the first two weeks, and then some basics of the data science stack the second two weeks. This will be fast-paced, and go over a small subset of the available material, but I hope a fun snapshot of an engaging language!
 
 Each week you will spend a lot of time learning about Python, and practicing Python before each class. Then each class will be spent going over any questions you had about the material, reinforcing any key points, and doing code walkthroughs/pair programming exercise with your instructor.
 
