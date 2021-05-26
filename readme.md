@@ -4,7 +4,7 @@ A Python class where you can learn just enough of the basics to start looking at
 <img width = "500" src="./images/hazel.png">
 
 Our mascot, Hazel the Green Tree Python.
-## Course
+## Introduction
 This is a Python class for complete beginners. Programming is largely muscle memory, so the best way to learn is through deliberate practice. While we will do four weeks of instruction, we will also try to focus on learning by *doing*.
 
 This will be a flipped class, where you learn a lot before each class (using the excellent book [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/2e/)) (ATBS)) and then we meet in each class to discuss and work on practical problems. The goal is to do a crash course in the basics of Python the first two weeks, and then some basics of the data science stack the second two weeks. This will be fast-paced, and go over a small subset of the available material, but I hope a fun snapshot of an engaging language!
@@ -13,7 +13,7 @@ Each week you will spend a lot of time learning about Python, and practicing Pyt
 
 [Pair programming](https://en.wikipedia.org/wiki/Pair_programming) is a technique where two programmers get together and work on a problem together. I find it an extremely useful way to debug code. We will be doing something similar: a group code walkthrough to help bake in the ideas that you learned outside of class; something to provide the opportunity to ask questions about anything that might be unclear, and to tweak/fiddle with the code to explore what happens.
 
-## Class outline
+## Outline
 
 ### Week 0
 This week you will set up programming environment, give it a test run, and set up the material for the class. We will be using [Jupyter notebooks](https://www.nature.com/articles/d41586-018-07196-1), which have become the tool of choice among scientists for expressing their ideas in Python.  For this material, just go to [getting_started.md](getting_started.md) and follow the instructions there.
