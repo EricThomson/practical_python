@@ -20,20 +20,19 @@ This week you will set up programming environment, give it a test run, and set u
 Now that you can use Python and run Jupyter notebooks, you are ready to start doing Python. For the first class, you should work through *Chapters 1: Python Basics* and *Chapter 2: Flow Control* from Automate the Boring Stuff. This corresponds to the Jupyter notebook [week1.ipynb](week1.ipynb).
 
 ### Week 2: Functions and data structures
-We will finish out our overview of the fundamentals of Python by looking at functions in Python, and the main types of data structures (lists, tuples, dictionaries, and strings). These topics correspond to Chapters 3-6 of Automate the Boring Stuff and can be found in the Jupyter notebook [week2.ipynb](week2.ipynb). 
+We will finish out our overview of the fundamentals of Python by looking at functions in Python, and the main types of data structures (lists, tuples, dictionaries, and strings). These topics correspond to Chapters 3-6 of Automate the Boring Stuff and can be found in the Jupyter notebook [week2.ipynb](week2.ipynb).
 
-### Week 3
-Objects, Imports and virtual environments, and intro to the data science stack part 1.
+### Week 3: Files, virtual environments, and the data science stack
+File input/output, virtual environments, and an introduction the data science stack (numpy and matplotlib).
 
-### Week 4
+### Week 4; The data science stack, part 2
 Data science stack, part 2. Using Python IRL.
 
 ### To do
 - for week1 class fix it to use two cameras: one for zoom, one to extract and do facial recog.
-- Add open ended section at end of each class for them to write questions  (do for class 1 will serve as template students can email me those)
-- Add "notes" section at end of each class for them to write notes for in-class section (do for class 1)
-- when you finish class1, go in and add preview at end of class 0, or just have them read over class 1? Or make separate class 1 preview notebook?
-- in general, getting_started needs quite a bit of work.
+- Add open ended section at end of each class for students to write questions  (do for class 1 will serve as template students can email me those)
+- Add "notes" section at end of each class for students to write notes for in-class section (do for class 1)
+- getting_started needs quite a bit of work.
 - Also need instructions on how to change default browswer in my windows fresh install it defaulted to freaking MS Edge :(
 - do this readme pretty much last just make the classes.
 
