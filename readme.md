@@ -11,18 +11,16 @@ This will be a flipped class, where you learn a lot before each class (using the
 
 Each week you will spend a lot of time learning about Python, and practicing Python before each class. Then each class will be spent going over any questions you had about the material, reinforcing any key points, and doing code walkthroughs/pair programming exercise with your instructor.
 
-[Pair programming](https://en.wikipedia.org/wiki/Pair_programming) is a technique where two programmers get together and work on a problem together. I find it an extremely useful way to debug code. We will be doing something similar: a group code walkthrough to help bake in the ideas that you learned outside of class; something to provide the opportunity to ask questions about anything that might be unclear, and to tweak/fiddle with the code to explore what happens.
-
 ## Outline
 
-### Week 0
+### Week 0: Setting things up
 This week you will set up programming environment, give it a test run, and set up the material for the class. We will be using [Jupyter notebooks](https://www.nature.com/articles/d41586-018-07196-1), which have become the tool of choice among scientists for expressing their ideas in Python.  For this material, just go to [getting_started.md](getting_started.md) and follow the instructions there.
 
-### Week 1
+### Week 1: Python basics and flow control
 Now that you can use Python and run Jupyter notebooks, you are ready to start doing Python. For the first class, you should work through *Chapters 1: Python Basics* and *Chapter 2: Flow Control* from Automate the Boring Stuff. This corresponds to the Jupyter notebook [week1.ipynb](week1.ipynb).
 
-### Week 2
-Lists, Dictionaries, Strings, Functions.
+### Week 2: Functions and data structures
+We will finish out our overview of the fundamentals of Python by looking at functions in Python, and the main types of data structures (lists, tuples, dictionaries, and strings). These topics correspond to Chapters 3-6 of Automate the Boring Stuff and can be found in the Jupyter notebook [week2.ipynb](week2.ipynb). 
 
 ### Week 3
 Objects, Imports and virtual environments, and intro to the data science stack part 1.
@@ -31,6 +29,7 @@ Objects, Imports and virtual environments, and intro to the data science stack p
 Data science stack, part 2. Using Python IRL.
 
 ### To do
+- for week1 class fix it to use two cameras: one for zoom, one to extract and do facial recog.
 - Add open ended section at end of each class for them to write questions  (do for class 1 will serve as template students can email me those)
 - Add "notes" section at end of each class for them to write notes for in-class section (do for class 1)
 - when you finish class1, go in and add preview at end of class 0, or just have them read over class 1? Or make separate class 1 preview notebook?
