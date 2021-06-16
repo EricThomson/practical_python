@@ -13,8 +13,8 @@ Each week you will spend a lot of time learning about Python, and practicing Pyt
 
 ## Outline
 
-### Week 0: Setting things up
-This week you will set up programming environment, give it a test run, and set up the material for the class. We will be using [Jupyter notebooks](https://www.nature.com/articles/d41586-018-07196-1), which have become the tool of choice among scientists for expressing their ideas in Python.  For this material, just go to [getting_started.md](getting_started.md) and follow the instructions there.
+### Week 0: Setting up Jupyter and Python
+This week you will set up your programming environment. We will be using [Jupyter notebooks](https://www.nature.com/articles/d41586-018-07196-1), which have become the tool of choice among scientists.  For this material, just go to [getting_started.md](getting_started.md) and follow the instructions there.
 
 ### Week 1: Python basics and flow control
 Now that you can use Python and run Jupyter notebooks, you are ready to start doing Python. For the first class, you should work through *Chapters 1: Python Basics* and *Chapter 2: Flow Control* from Automate the Boring Stuff. This corresponds to the Jupyter notebook [week1.ipynb](week1.ipynb).
