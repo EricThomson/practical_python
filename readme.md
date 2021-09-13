@@ -25,7 +25,7 @@ We will finish out our overview of the fundamentals of Python by looking at func
 ### Week 3: Files, virtual environments, and the data science stack
 Files, virtual environments, and an introduction to the data science stack (with a focus on numpy, pandas, and matplotlib). We will do some number crunching and data visualization this week.
 
-### Week 4: Deep lab cut project
+### Week 4: Deep lab cut 
 Using Python IRL. This week you will do a deep dive into a project that approaches the messiness of real life. It will be a lot of work, and your computer will work pretty hard too (many hours to train the model). You will see deep learning in action, and get hands-on skills with an extremely useful package.
 
 ### To do
