@@ -1,5 +1,5 @@
 # Practical Python
-A Python class where you can learn just enough of the basics to start looking at your data.
+From Hello World to Deep Lab Cut. Python for busy Neuroscientists.
 
 <img width = "500" src="./images/hazel.png">
 
