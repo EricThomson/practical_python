@@ -26,7 +26,7 @@ We will finish out our overview of the fundamentals of Python by looking at func
 Files, virtual environments, and an introduction to the data science stack (with a focus on numpy, pandas, and matplotlib). We will do some number crunching and data visualization this week.
 
 ### Week 4: Deep lab cut project
-Using Python IRL. This week you will do a deep dive into a project that approaches the messiness of real life. It will be a lot of work, and your computer will work pretty hard too (many hours to train the model). You will get to see deep learning in action and learn to use an extremely useful package.
+Using Python IRL. This week you will do a deep dive into a project that approaches the messiness of real life. It will be a lot of work, and your computer will work pretty hard too (many hours to train the model). You will see deep learning in action, and get hands-on skills with an extremely useful package.
 
 ### To do
 - for week1 class fix it to use two cameras: one for zoom, one to extract and do facial recog.
