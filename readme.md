@@ -23,10 +23,10 @@ Now that you can use Python and run Jupyter notebooks, you are ready to start do
 We will finish out our overview of the fundamentals of Python by looking at functions in Python, and the main types of data structures (lists, tuples, dictionaries, and strings). These topics correspond to Chapters 3-6 of Automate the Boring Stuff and can be found in the Jupyter notebook [week2.ipynb](week2.ipynb).
 
 ### Week 3: Files, virtual environments, and the data science stack
-File input/output, virtual environments, and an introduction the data science stack (numpy and matplotlib).
+Files, virtual environments, and an introduction to the data science stack (with a focus on numpy, pandas, and matplotlib). We will do some number crunching and data visualization this week.
 
-### Week 4; The data science stack, part 2
-Data science stack, part 2. Using Python IRL.
+### Week 4: Deep lab cut project
+Using Python IRL. Use Deep Lab Cut to analyze movies. This week you will do a deep dive into a real project. It will be a lot of work, and your computer will work pretty hard (many hours to train the model), but you will see deep learning in action, and see some very cool results.
 
 ### To do
 - for week1 class fix it to use two cameras: one for zoom, one to extract and do facial recog.
