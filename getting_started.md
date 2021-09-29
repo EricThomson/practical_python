@@ -1,4 +1,4 @@
-# Practial Python Week 0: Getting Started
+# Practical Python Week 0: Getting Started
 <img width = "350" src="./images/hazel.png" align="right">
 
 Welcome to **Practical Python**. Python is an amazing language: it is powerful, useful, ubiquitous, and relatively easy to learn -- even for beginners. This week we will focus mainly on setting up your programming environment, and a little preview of the Python you will learn in Week 1.
