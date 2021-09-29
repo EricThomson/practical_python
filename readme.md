@@ -1,5 +1,5 @@
 # Practical Python
-Python for busy Neuroscientists: from Hello World to Deep Lab Cut. 
+Python for busy Neuroscientists: from `Hello, World` to Deep Lab Cut. 
 
 <img width = "500" src="./images/hazel.png">
 
