@@ -5,7 +5,7 @@ Python for busy Neuroscientists. From "Hello World" to Deep Lab Cut.
 
 Our mascot, Hazel the Green Tree Python.
 ## Introduction
-This is a Python crash course for complete beginners. In the first two weeks we will learn the fundamentals of Python using the freely available book [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/2e/)) (ATBS). The third week we will cover the basics of the data science stack that you use for analysis and visualization of data. The final week will be a deep dive into a practical project using Deep Lab Cut, a library for tracking animal behavior that uses deep learning and convolutional neural networks.
+This is a Python crash course for complete beginners. In the first two weeks we will learn the fundamentals of Python using the freely available book [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/2e/)) (ATBS). The third week we will cover the basics of the data science stack that you can use for analysis and visualization of data. The final week will be a deep dive into a practical project using Deep Lab Cut, a library for tracking animal behavior that uses deep learning and convolutional neural networks.
 
 This will be a "flipped" class, where you learn a lot outside of the class each week. Each week you will spend a lot of time learning about Python and practicing coding before each class. Then in class, we will go over any questions you had about the material, reinforcing any key points, and going over code with your instructor.
 
@@ -14,7 +14,7 @@ This will be a "flipped" class, where you learn a lot outside of the class each 
 This week you will set up your programming environment. We will be using [Jupyter notebooks](https://www.nature.com/articles/d41586-018-07196-1), which have become the tool of choice among scientists for sharing code. For this week, just go to [getting_started.md](getting_started.md) and follow the instructions there. If you already have Jupyter/Conda sete up, you can skip to Step 3 of that page (cloning this repo and running the notebook for the week).
 
 ### Week 1: Python basics and flow control
-Now that you can use Python and run Jupyter notebooks, you are ready to start doing Python. For the first class, you should work through *Chapters 1: Python Basics* and *Chapter 2: Flow Control* from Automate the Boring Stuff. This corresponds to the Jupyter notebook [week1.ipynb](week1.ipynb).
+Now that you can use Python and run Jupyter notebooks, you are ready to start doing Python. We will cover the basics of Python, and the important topic of flow control (e.g., for loops). This material corresponds to Chapters One and Two of Automate the Boring stuff and is covered in the Jupyter notebook [week1.ipynb](week1.ipynb).
 
 ### Week 2: Functions and data structures
 We will finish out our overview of the fundamentals of Python by looking at functions in Python, and the main types of data structures (lists, tuples, dictionaries, and strings). These topics correspond to Chapters 3-6 of Automate the Boring Stuff and can be found in the Jupyter notebook [week2.ipynb](week2.ipynb).
