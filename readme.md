@@ -1,5 +1,5 @@
 # Practical Python
-Python for busy Neuroscientists: from "Hello World" to Deep Lab Cut. 
+Python for busy Neuroscientists: from "Hello World" to Deep Lab Cut.
 
 <img width = "500" src="./images/hazel.png">
 
@@ -7,14 +7,13 @@ Our mascot, Hazel the Green Tree Python.
 ## Introduction
 This is a Python class for complete beginners. Programming is largely muscle memory, so the best way to learn is through deliberate practice. While we will do four weeks of instruction, we will also try to focus on learning by *doing*.
 
-This will be a flipped class, where you learn a lot before each class (using the excellent book [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/2e/)) (ATBS)) and then we meet in each class to discuss what you learned. The goal is to do a crash course in the basics of Python the first two weeks, and then some data science basics the next two weeks. This will be fast-paced, and go over a small subset of the available material, but hopefully will be a fun snapshot of an engaging language!
+In the first two weeks we will learn the fundamentals of Python using the freely available book [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/2e/)) (ATBS). The third week we will cover the basics of the data science stack that you use for analysis and visualizatoin of data. The final week will be a deep practical dive into a practical project using Deep Lab Cut, a library for tracking animal behavior that uses deep learning and convolutional neural networks.
 
-Each week you will spend a lot of time learning about Python and practicing coding before each class. Then each class will be spent going over any questions you had about the material, reinforcing any key points, and going over code with your instructor.
+This will be a "flipped" class, where you learn a lot outside of the class each week. Each week you will spend a lot of time learning about Python and practicing coding before each class. Then each class will be spent going over any questions you had about the material, reinforcing any key points, and going over code with your instructor.
 
 ## Outline
-
 ### Week 0: Setting up Jupyter and Python
-This week you will set up your programming environment. We will be using [Jupyter notebooks](https://www.nature.com/articles/d41586-018-07196-1), which have become the tool of choice among scientists.  For this material, just go to [getting_started.md](getting_started.md) and follow the instructions there.
+This week you will set up your programming environment. We will be using [Jupyter notebooks](https://www.nature.com/articles/d41586-018-07196-1), which have become the tool of choice among scientists for sharing code. For this week, just go to [getting_started.md](getting_started.md) and follow the instructions there. If you already have Jupyter/Conda sete up, you can skip to Step 3 of that page (cloning this repo and running the notebook for the week).
 
 ### Week 1: Python basics and flow control
 Now that you can use Python and run Jupyter notebooks, you are ready to start doing Python. For the first class, you should work through *Chapters 1: Python Basics* and *Chapter 2: Flow Control* from Automate the Boring Stuff. This corresponds to the Jupyter notebook [week1.ipynb](week1.ipynb).
@@ -25,7 +24,7 @@ We will finish out our overview of the fundamentals of Python by looking at func
 ### Week 3: Files, virtual environments, and the data science stack
 Files, virtual environments, and an introduction to the data science stack (with a focus on numpy, pandas, and matplotlib). We will do some number crunching and data visualization this week.
 
-### Week 4: Deep lab cut 
+### Week 4: Deep lab cut
 Using Python IRL. This week you will do a deep dive into a project that approaches the messiness of real life. It will be a lot of work, and your computer will work pretty hard too (many hours to train the model). You will see deep learning in action, and get hands-on skills with an extremely useful package.
 
 ### To do
