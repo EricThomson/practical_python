@@ -1,15 +1,13 @@
 # Practical Python
-Python for busy Neuroscientists: from "Hello World" to Deep Lab Cut.
+Python for busy Neuroscientists. From "Hello World" to Deep Lab Cut.
 
 <img width = "500" src="./images/hazel.png">
 
 Our mascot, Hazel the Green Tree Python.
 ## Introduction
-This is a Python class for complete beginners. Programming is largely muscle memory, so the best way to learn is through deliberate practice. While we will do four weeks of instruction, we will also try to focus on learning by *doing*.
+This is a Python crash course for complete beginners. In the first two weeks we will learn the fundamentals of Python using the freely available book [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/2e/)) (ATBS). The third week we will cover the basics of the data science stack that you use for analysis and visualization of data. The final week will be a deep dive into a practical project using Deep Lab Cut, a library for tracking animal behavior that uses deep learning and convolutional neural networks.
 
-In the first two weeks we will learn the fundamentals of Python using the freely available book [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/2e/)) (ATBS). The third week we will cover the basics of the data science stack that you use for analysis and visualizatoin of data. The final week will be a deep practical dive into a practical project using Deep Lab Cut, a library for tracking animal behavior that uses deep learning and convolutional neural networks.
-
-This will be a "flipped" class, where you learn a lot outside of the class each week. Each week you will spend a lot of time learning about Python and practicing coding before each class. Then each class will be spent going over any questions you had about the material, reinforcing any key points, and going over code with your instructor.
+This will be a "flipped" class, where you learn a lot outside of the class each week. Each week you will spend a lot of time learning about Python and practicing coding before each class. Then in class, we will go over any questions you had about the material, reinforcing any key points, and going over code with your instructor.
 
 ## Outline
 ### Week 0: Setting up Jupyter and Python
