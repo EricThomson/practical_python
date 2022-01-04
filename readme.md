@@ -19,8 +19,8 @@ Now that you can use Python and run Jupyter notebooks, you are ready to start do
 ### Week 2: Functions and data structures
 We will finish out our overview of the fundamentals of Python by looking at functions in Python, and the main types of data structures (lists, tuples, dictionaries, and strings). These topics correspond to Chapters 3-6 of Automate the Boring Stuff and can be found in the Jupyter notebook [week2.ipynb](week2.ipynb).
 
-### Week 3: Files, virtual environments, and the data science stack
-Now that you know the fundamentals of Python, you are ready to start doing things with data. We'll learn about virtual environments and Python's vaunted *data science stack*. Among other things, we will learn about the numerical computing library `numpy`, the plotting library `matplotlib`, and the analysis library `pandas`. For this week, see  [week3.ipynb](week3.ipynb), which includes links to excellent introductions to these libraries, as well as a chance to use them within the notebook.  As always, practice is key!
+### Week 3: The data science stack
+Now that you know the fundamentals of Python, you are ready to start doing things with data. We'll learn about virtual environments, as well as Python's vaunted *data science stack*. Among other things, we will learn about `numpy` (a powerful numerical computing library), `matplotlib` (a plotting library), and `pandas` (a tool for analyzing tabular data sort of like you find in Excel). For this week, see  [week3.ipynb](week3.ipynb), which includes links to excellent introductions to these libraries, as well as a chance to use them within the notebook.  As always, practice is key!
 
 ### Week 4: Deep lab cut
 Using Python IRL. This week you will do a deep dive into a project that approaches the messiness of real life. It will be a lot of work, and your computer will work pretty hard too (many hours to train the model). You will see deep learning in action, and get hands-on skills with an extremely useful package.
