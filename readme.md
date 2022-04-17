@@ -7,7 +7,7 @@ Our mascot, Hazel the Green Tree Python.
 ## Introduction
 This is a Python crash course for complete beginners. In the first two weeks we will learn the fundamentals of Python using the freely available book [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/2e/)) (ATBS). The third and fourth week we will cover the basics of the data science stack that you can use for analysis and visualization of data.
 
-This is designed to be a "flipped" class: each week you will spend a lot of time learning and practicing coding outside of class. Then in class, we spend time reinforcing key points, going over questions you have about the material, and going over code with your instructor.
+This is designed to be a "flipped" class: each week you will spend your time learning and practicing Python coding outside of class. Then in class, we spend time reinforcing key points, going over questions you have about the material, and going over code with your instructor.
 
 ## Outline
 ### Week 0: Setting up Jupyter and Python
