@@ -1,7 +1,7 @@
 # Practical Python Week 0: Getting Started
 <img width = "300" src="./images/hazel.png" style="float:right;margin:5px 5px 10px 15px">
 
-Welcome to the first week of **Practical Python**! Python is an amazing language: it is powerful, useful, ubiquitous, and pretty easy to learn -- even if you have no programming experience. For this first class we will focus mainly on setting up and acqainting you with your programming environment.
+Welcome to the first week of **Practical Python**! Python is an amazing language: it is powerful, useful, ubiquitous, and pretty easy to learn -- even if you have no programming experience. For this first class we will focus mainly on setting up and acquainting you with your programming environment.
 
 I can understand if you are impatient to start hacking away at the nitty gritty programming bits, but getting a programming environment squared away is essential. With Python, there are *many* options. Unlike  Matlab or R, which has a single canonical interface, Python has at least a dozen development environments to choose from. Hence, to avoid confusion, minimize choices you have to make, and be sure we are all on the same page, our first task will be to set up and test drive one popular programming environment for scientific computing.
 
