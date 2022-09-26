@@ -3,9 +3,9 @@
 
 Welcome to the first week of **Practical Python**! Python is an amazing language: it is powerful, useful, ubiquitous, and pretty easy to learn -- even if you have no programming experience. For this first class we will focus mainly on setting up and acquainting you with your programming environment.
 
-I can understand if you are impatient to start hacking away at the nitty gritty programming bits, but getting a programming environment squared away is essential. With Python, there are *many* options. Unlike  Matlab or R, which has a single canonical interface, Python has at least a dozen development environments to choose from. Hence, to avoid confusion, minimize choices you have to make, and be sure we are all on the same page, our first task will be to set up and test drive one popular programming environment for scientific computing.
+I can understand if you are impatient to start hacking away at the nitty gritty programming bits, but getting a programming environment squared away is essential. With Python, there are *many* options. Unlike  Matlab or R, which both have a single canonical interface, Python has at least a dozen development environments to choose from. Hence, to avoid confusion, minimize choices you have to make, and be sure we are all on the same page, our first task will be to set up and test drive one popular programming environment for scientific computing.
 
-We are going to be using anaconda (technically, a streamlined version of anaconda called *miniconda*), and Jupyter. Jupyter notebooks have become the *de facto* standard that scientists and data scientists use to communicate with one another in Python.
+We are going to be using anaconda (technically, a streamlined version of anaconda called *miniconda*), and Jupyter. Anaconda is a Python distribution and package manager (we will learn a lot more the details of Anaconda in Week 3), while Jupyter notebooks have become the *de facto* tool that scientists and data scientists use to write code and communicate with one another in Python.
 
 Please be sure to set aside a good chunk of time for this initial step, as it isn't just about installation, but about practicing how to initialize and use Jupyter notebooks, building that muscle memory. Also, there is a *slight* chance you will end up in install hell, and it will be good for you to escape before our first real class.
 
@@ -13,7 +13,7 @@ Please be sure to set aside a good chunk of time for this initial step, as it is
 
 # 1. Install and test Python
 ## Install miniconda
-Let's start by installing Python. Installation will probably go smoothly and quickly, but if you run into snags (especially Mac users), Google is your friend. There are lots of great online resources like [Stack Overflow](https://stackoverflow.com/) where people post their solutions to problems.
+Let's start by installing Python. Installation will probably go smoothly and quickly, but if you run into snags (especially Mac users), Google is your friend. There are lots of great online resources like [Stack Overflow](https://stackoverflow.com/) where people post their solutions to problems. Note for users at organizations where you do not have admin on your computer: all these steps should just work, that is one of the nice things about using Conda (this is one of the things it was built for: learning Python without opening tickets with IT every five minutes). 
 
 *Windows users*
 1. Go to the download page: https://docs.conda.io/en/latest/miniconda.html and download the installer for the latest version of Miniconda (`Miniconda3-latest-Windows-x86_64.exe`).
